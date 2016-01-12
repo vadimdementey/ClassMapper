@@ -1,0 +1,9 @@
+C:\TFS\ClassMap\ClassMapper\bin\Debug\ClassMapper.exe.config
+C:\TFS\ClassMap\ClassMapper\bin\Debug\ClassMapper.exe
+C:\TFS\ClassMap\ClassMapper\bin\Debug\ClassMapper.pdb
+C:\TFS\ClassMap\ClassMapper\obj\Debug\ClassMapper.Properties.Resources.resources
+C:\TFS\ClassMap\ClassMapper\obj\Debug\ClassMapper.csproj.GenerateResource.Cache
+C:\TFS\ClassMap\ClassMapper\obj\Debug\ClassMapper.exe
+C:\TFS\ClassMap\ClassMapper\obj\Debug\ClassMapper.pdb
+C:\TFS\ClassMap\ClassMapper\obj\Debug\ClassMapper.MainForm.resources
+C:\TFS\ClassMap\ClassMapper\obj\Debug\ClassMapper.csprojResolveAssemblyReference.cache
